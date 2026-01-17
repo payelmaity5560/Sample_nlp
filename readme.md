@@ -24,7 +24,6 @@ NLP-Preprocessing-App/
 ⚙️ Part 1: Tokenization
 
 Sentence Tokenization
-
 Word Tokenization
 
 Character Tokenization
